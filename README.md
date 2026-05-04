@@ -15,18 +15,18 @@
 
 ### 🇧🇷 Sobre mim
 
-Sou desenvolvedor full stack há mais de 12 anos, com foco em **PHP, Next.js e infraestrutura de servidores Linux**. Fundei a **RDS Group Soluções** para construir e manter sistemas web que realmente resolvem o dia a dia de empresas — de CRMs sob medida a plataformas EAD, e-commerces e integrações de pagamento.
+Sou desenvolvedor full stack há mais de 12 anos, com foco em **PHP, Next.js e infraestrutura de servidores Linux**. Fundei a **RDS Group Soluções** para construir e manter sistemas web que resolvem o dia a dia de empresas: CRMs sob medida, plataformas EAD, e-commerces e integrações de pagamento.
 
-Hoje trabalho em produtos próprios e para clientes em diversos segmentos — turismo, saúde, educação, varejo e serviços — cuidando da stack inteira: do design ao deploy, da arquitetura ao monitoramento em produção.
+Hoje trabalho em produtos próprios e para clientes em diversos segmentos (turismo, saúde, educação, varejo, serviços), cuidando da stack inteira: do design ao deploy, da arquitetura ao monitoramento em produção.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇺🇸 About me
 
-Full stack developer with 12+ years of experience, focused on **PHP, Next.js and Linux server infrastructure**. Founder of **RDS Group Soluções**, where I build and maintain web systems that actually solve real business problems — from custom CRMs to LMS platforms, e-commerce sites and payment integrations.
+Full stack developer with 12+ years of experience, focused on **PHP, Next.js and Linux server infrastructure**. Founder of **RDS Group Soluções**, where I build and maintain web systems that solve real business problems: custom CRMs, LMS platforms, e-commerce sites and payment integrations.
 
-I currently work on my own products and for clients across multiple segments — tourism, healthcare, education, retail and services — handling the full stack: from design to deploy, from architecture to production monitoring.
+I currently work on my own products and for clients across multiple segments (tourism, healthcare, education, retail, services), handling the full stack: from design to deploy, from architecture to production monitoring.
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ I currently work on my own products and for clients across multiple segments —
 <td width="50%" valign="top">
 
 **🇧🇷**
-- 🤖 **Agência de IA** — automação de atendimento e operações com Claude (Anthropic)
+- 🤖 **Agência de IA**: automação de atendimento e operações com Claude (Anthropic)
 - 🌐 **Plataforma multi-tenant CAPI** para tracking de campanhas Meta Ads
 - 🖥️ **SaaS Antidetect Browser** desktop (Electron) para gestores de tráfego
 - 🏨 **Sistemas para turismo** (reservas, listings estilo Airbnb, marketplaces locais)
@@ -108,7 +108,7 @@ I currently work on my own products and for clients across multiple segments —
 <td width="50%" valign="top">
 
 **🇺🇸**
-- 🤖 **AI Agency** — customer support and operations automation with Claude (Anthropic)
+- 🤖 **AI Agency**: customer support and operations automation with Claude (Anthropic)
 - 🌐 **Multi-tenant CAPI platform** for advanced Meta Ads campaign tracking
 - 🖥️ **Antidetect Browser SaaS** desktop app (Electron) for media buyers
 - 🏨 **Tourism industry systems** (bookings, Airbnb-style listings, local marketplaces)
