@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Ronaldo Silva</h1>
-<h3 align="center">Desenvolvedor PHP Full Stack desde 2013 · CEO da RDS Agência Digital</h3>
+<h3 align="center">Desenvolvedor PHP Full Stack desde 2013 · CEO da RDS Group Soluções</h3>
 
 <p align="center">
-  <a href="https://www.rdsagenciadigital.com">🌐 rdsagenciadigital.com</a>
+  <a href="https://rdsgroupsolucoes.com.br">🌐 rdsgroupsolucoes.com.br</a>
   &nbsp;·&nbsp;
   <a href="mailto:sa3ronaldo@gmail.com">✉️ sa3ronaldo@gmail.com</a>
 </p>
@@ -15,7 +15,7 @@
 
 ### 🇧🇷 Sobre mim
 
-Sou desenvolvedor full stack há mais de 12 anos, com foco em **PHP, Next.js e infraestrutura de servidores Linux**. Fundei a **RDS Agência Digital** para construir e manter sistemas web que realmente resolvem o dia a dia de empresas — de CRMs sob medida a plataformas EAD, e-commerces e integrações de pagamento.
+Sou desenvolvedor full stack há mais de 12 anos, com foco em **PHP, Next.js e infraestrutura de servidores Linux**. Fundei a **RDS Group Soluções** para construir e manter sistemas web que realmente resolvem o dia a dia de empresas — de CRMs sob medida a plataformas EAD, e-commerces e integrações de pagamento.
 
 Hoje trabalho em produtos próprios e para clientes em diversos segmentos — turismo, saúde, educação, varejo e serviços — cuidando da stack inteira: do design ao deploy, da arquitetura ao monitoramento em produção.
 
@@ -24,7 +24,7 @@ Hoje trabalho em produtos próprios e para clientes em diversos segmentos — tu
 
 ### 🇺🇸 About me
 
-Full stack developer with 12+ years of experience, focused on **PHP, Next.js and Linux server infrastructure**. Founder of **RDS Agência Digital**, where I build and maintain web systems that actually solve real business problems — from custom CRMs to LMS platforms, e-commerce sites and payment integrations.
+Full stack developer with 12+ years of experience, focused on **PHP, Next.js and Linux server infrastructure**. Founder of **RDS Group Soluções**, where I build and maintain web systems that actually solve real business problems — from custom CRMs to LMS platforms, e-commerce sites and payment integrations.
 
 I currently work on my own products and for clients across multiple segments — tourism, healthcare, education, retail and services — handling the full stack: from design to deploy, from architecture to production monitoring.
 
@@ -122,8 +122,8 @@ I currently work on my own products and for clients across multiple segments —
 ### 🌐 Conecte-se / Connect with me
 
 <p align="center">
-  <a href="https://www.rdsagenciadigital.com">
-    <img src="https://img.shields.io/badge/Website-rdsagenciadigital.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://rdsgroupsolucoes.com.br">
+    <img src="https://img.shields.io/badge/Website-rdsgroupsolucoes.com.br-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:sa3ronaldo@gmail.com">
     <img src="https://img.shields.io/badge/Email-sa3ronaldo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
